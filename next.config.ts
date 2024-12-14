@@ -9,7 +9,7 @@ const nextConfig = {
   },
   eslint:{
     ignoreDuringBuilds: true
-  }
+  },
   images:{
     dangerouslyAllowSVG:true,
     remotePatterns:[
